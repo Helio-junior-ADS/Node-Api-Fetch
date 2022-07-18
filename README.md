@@ -2,7 +2,7 @@
 
 # 💻 Sobre o projeto
 ## Integrando uma Api da Cielo usando a lib node-fetch, a integração do front com o beck foi feito com express, as requisições foram feitas via postman. API simula uma compra com Body de sandbox, captura venda e mostra o status da compra.
-# [Vídeo de demostracao](https://www.linkedin.com/posts/h%C3%A9lio-j%C3%BAnior-81aa6612a_integrando-uma-api-da-cielo-usando-a-lib-activity-6943670676587229184-rG_N?utm_source=linkedin_share&utm_medium=member_desktop_web)
+# [Vídeo de demonstração](https://www.linkedin.com/posts/h%C3%A9lio-j%C3%BAnior-81aa6612a_integrando-uma-api-da-cielo-usando-a-lib-activity-6943670676587229184-rG_N?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
 ![174399911-7ceb22b2-cf6b-4871-96c2-533f09a9fc12](https://user-images.githubusercontent.com/64769193/179634582-6b21fdf7-efff-4539-96d4-a9575f6acc27.png)
 
